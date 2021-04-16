@@ -1,1 +1,0 @@
-(self.webpackChunkchicken_invader=self.webpackChunkchicken_invader||[]).push([[364],{4364:(e,c,a)=>{"use strict";a.r(c),a.d(c,{default:()=>n});const n=a.p+"e27cc6e7eb205ffaa666d3ce5bc17eb1.jpg"}}]);
